@@ -28,3 +28,4 @@ Simple progress.
 Simple progress.
 Building habit.
 Learning workflow.
+Code journey.
