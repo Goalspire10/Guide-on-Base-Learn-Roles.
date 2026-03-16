@@ -96,3 +96,4 @@ Another commit entry.
 Nearly done.
 Final practice step.
 Just one more.
+Commit milestone reached.
