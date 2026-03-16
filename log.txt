@@ -5,3 +5,4 @@ Commit number four.
 Testing commits.
 Building consistency.
 Another update.
+Git practice.
