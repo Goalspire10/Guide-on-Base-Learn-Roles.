@@ -26,3 +26,4 @@ GitHub journey.
 Version control practice.
 Simple progress.
 Simple progress.
+Building habit.
