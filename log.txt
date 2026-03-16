@@ -29,3 +29,4 @@ Simple progress.
 Building habit.
 Learning workflow.
 Code journey.
+Small win.
