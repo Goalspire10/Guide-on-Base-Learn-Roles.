@@ -6,3 +6,4 @@ Testing commits.
 Building consistency.
 Another update.
 Git practice.
+Simple change.
