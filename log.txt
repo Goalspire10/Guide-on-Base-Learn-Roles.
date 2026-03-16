@@ -3,3 +3,4 @@ Learning GitHub.
 Small progress today.
 Commit number four.
 Testing commits.
+Building consistency.
