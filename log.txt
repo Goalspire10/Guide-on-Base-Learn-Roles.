@@ -72,3 +72,4 @@ Git practice mode.
 Updating file.
 Simple entry.
 Progress log.
+Practicing commits.
